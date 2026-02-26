@@ -76,6 +76,6 @@ https://github.com/m-chien/Qu-n-L-Web-Xem-Phim-Online
 ## 📫 Contact
 
 <p align="center">
-  📧 chientranminh355@gmail.com <br>
-  💻 https://github.com/m-chien
+  📧 <a href="mailto:chientranminh355@gmail.com">chientranminh355@gmail.com</a> <br>
+  📱 <a href="tel:+84969827284">0969827284</a>
 </p>
