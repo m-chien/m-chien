@@ -68,8 +68,7 @@ https://github.com/m-chien/Qu-n-L-Web-Xem-Phim-Online
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-chien&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-chien&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=m-chien&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
