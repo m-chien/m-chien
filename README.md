@@ -1,62 +1,58 @@
-# 👋 Hi, I'm Trần Minh Chiến
+<h1 align="center">Hi 👋, I'm Trần Minh Chiến</h1>
+<h3 align="center">Backend Developer | Java | Spring Boot</h3>
 
-🎯 Backend Developer (Java / Spring Boot)
+<p align="center">
+I focus on building secure RESTful APIs, authentication systems using JWT, and scalable backend architecture.
+</p>
 
-I focus on building secure RESTful APIs, authentication systems using JWT (Access & Refresh Token), and scalable backend architecture.
-
-## 🚀 About Me
-
-- 💻 Strong in Java & Spring ecosystem
-- 🔐 Implemented JWT Authentication (Access + Refresh Token rotation)
-- 🗄 Designed relational databases with SQL Server
-- ⚡ Using Redis for token management & caching
-- 🐳 Dockerizing backend applications
-- 🌱 Currently improving system design & backend performance
+---
 
 ## 🛠 Tech Stack
 
-### 🔹 Backend
-- Java Core
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-### 🔹 Security
-- JWT (Access Token + Refresh Token)
-- HttpOnly Cookie
-- Role-based Authorization
+---
 
-### 🔹 Database
-- SQL Server
-- Redis
+## 🚀 About Me
 
-### 🔹 Frontend
-- ReactJS
-- JavaScript (ES6+)
+- 💻 Strong in Java & Spring ecosystem  
+- 🔐 Implemented JWT Authentication (Access + Refresh Token rotation)  
+- 🗄 Designed relational databases with SQL Server  
+- ⚡ Using Redis for caching & token management  
+- 🐳 Dockerizing backend applications  
+- 🌱 Improving system design & backend performance  
 
-### 🔹 DevOps
-- Docker
-- Docker Compose
-
+---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Messenger Clone
-> Real-time chat application with JWT authentication and Redis-based refresh token management.
+Real-time chat application with JWT authentication and Redis-based refresh token management.
 
 **Tech:** Spring Boot, React, SQL Server, Redis  
+
 **Highlights:**
 - Access Token & Refresh Token flow
 - Refresh Token stored in HttpOnly Cookie
 - Role-based authorization
 - Multi-user chat system
-- RESTful API design
+- Clean RESTful API design
 
-👉 [View Repository](https://github.com/m-chien/Qu-n-L-Web-Xem-Phim-Online.git)
+👉 **Repository:**  
+https://github.com/m-chien/messenger
+
+---
 
 ### 🔹 Movie Streaming Web
-> Web application for managing movies, actors, genres, comments, ratings and watch history.
+Web application for managing movies, actors, genres, comments, ratings and watch history.
 
 **Highlights:**
 - Many-to-many database design
@@ -64,14 +60,23 @@ I focus on building secure RESTful APIs, authentication systems using JWT (Acces
 - Pagination & filtering
 - Clean layered architecture
 
-👉 [View Repository](https://github.com/m-chien/messenger.git)
+👉 **Repository:**  
+https://github.com/m-chien/Qu-n-L-Web-Xem-Phim-Online
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-chien&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-chien&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-chien&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
 ## 📫 Contact
 
-- Email: chientranminh355@gmail.com
-- GitHub: https://github.com/m-chien
+<p align="center">
+  📧 chientranminh355@gmail.com <br>
+  💻 https://github.com/m-chien
+</p>
