@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://chientech.id.vn" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-chientech.id.vn-00C7B7?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:chientranminh355@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://zalo.me/0911735883" target="_blank"><img src="https://img.shields.io/badge/💬_ZALO-0911.735.883-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <a href="https://zalo.me/0911735883" target="_blank"><img src="https://img.shields.io/badge/💬_ZALO-0969.827.284-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
   <a href="https://github.com/m-chien?tab=followers"><img src="https://img.shields.io/github/followers/m-chien?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
   <img src="https://komarev.com/ghpvc/?username=m-chien&style=for-the-badge&label=VISITS&color=2563EB" />
 </p>
@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/master/Stickers/Animals/Coding%20Cat.png" width="200" alt="Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
     </td>
   </tr>
 </table>
