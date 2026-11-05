@@ -5,25 +5,27 @@
 
 <div align="center">
   <a href="https://chientech.id.vn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=75&lines=%F0%9F%92%BB+Building+Secure+RESTful+APIs+%26+Backend+Systems+%E2%98%95;%F0%9F%A4%96+Integrating+AI+Workflows+into+Software+Solutions;%F0%9F%8C%90+Explore+My+Interactive+Portfolio+%40+chientech.id.vn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%F0%9F%92%BB+Building+Secure+RESTful+APIs+%26+Backend+Systems+%E2%98%95;%F0%9F%A4%96+Integrating+AI+Workflows+into+Software+Solutions;%F0%9F%8C%90+Explore+My+Interactive+Portfolio+%40+chientech.id.vn" alt="Typing SVG" />
   </a>
 </div>
-<br/>
+
 <!-- QUICK ACTION BADGES -->
 <p align="center">
   <a href="https://chientech.id.vn" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-chientech.id.vn-00C7B7?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:chientranminh355@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://zalo.me/0911735883" target="_blank"><img src="https://img.shields.io/badge/💬_ZALO-0969.827.284-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <a href="https://zalo.me/0911735883" target="_blank"><img src="https://img.shields.io/badge/💬_ZALO-0911.735.883-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
   <a href="https://github.com/m-chien?tab=followers"><img src="https://img.shields.io/github/followers/m-chien?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
   <img src="https://komarev.com/ghpvc/?username=m-chien&style=for-the-badge&label=VISITS&color=2563EB" />
 </p>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ==================== 2. ABOUT ME & RECRUITER HIGHLIGHTS ==================== -->
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h2>👋 Hello, I'm Trần Minh Chiến</h2>
       <p><b>Fresher / Junior Backend Developer</b> passionate about architecting secure, scalable backend services and exploring practical AI integrations.</p>
       <ul>
@@ -33,13 +35,15 @@
         <li>🎯 <b>Career Objective:</b> Looking for full-time/internship opportunities as a <b>Java Spring Boot / Backend Developer</b> to contribute to production-grade enterprise systems.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/master/Stickers/Animals/Coding%20Cat.png" width="180" alt="Coding Cat" />
     </td>
   </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ==================== 3. RECRUITER IMPRESSION: HACKATHON & AWARDS ==================== -->
 <h3 align="center">🏆 Hackathons, Competitions & Recognition</h3>
@@ -50,7 +54,9 @@
   <img src="https://img.shields.io/badge/🌟_Special_Prize-Startup_Ideas_UTE_2026-EC4899?style=for-the-badge&labelColor=0F172A" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ==================== 4. TECH STACK MATRIX ==================== -->
 <h2 align="center">🛠️ Technical Skill Matrix</h2>
@@ -84,7 +90,9 @@
   </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ==================== 5. FEATURED PROJECTS (VISUAL CARDS) ==================== -->
 <h2 align="center">🚀 Production-Ready & Featured Projects</h2>
@@ -163,7 +171,9 @@
   </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <!-- ==================== 6. SYSTEM ARCHITECTURE VISUALIZER ==================== -->
 <h2 align="center">🧠 My Backend & AI System Architecture</h2>
