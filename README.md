@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://chientech.id.vn" target="_blank"><img src="https://img.shields.io/badge/Portfolio-chientech.id.vn-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" /></a>
   <a href="mailto:chientranminh355@gmail.com"><img src="https://img.shields.io/badge/Email-chientranminh355-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
-  <a href="https://zalo.me/0911735883" target="_blank"><img src="https://img.shields.io/badge/Zalo-0911.735.883-0068FF?style=for-the-badge&logo=zalo&logoColor=white&labelColor=0F172A" /></a>
+  <a href="https://zalo.me/0911735883" target="_blank"><img src="https://img.shields.io/badge/Zalo-0969.827.284-0068FF?style=for-the-badge&logo=zalo&logoColor=white&labelColor=0F172A" /></a>
   <br/>
   <a href="https://github.com/m-chien?tab=followers"><img src="https://img.shields.io/github/followers/m-chien?style=flat-square&logo=github&label=Followers&color=38BDF8&labelColor=0F172A" /></a>
   <a href="https://github.com/m-chien?tab=repositories"><img src="https://img.shields.io/github/stars/m-chien?style=flat-square&logo=github&label=Stars&color=F59E0B&labelColor=0F172A" /></a>
@@ -137,7 +137,6 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    5. TECH ARSENAL                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
@@ -158,34 +157,24 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">☕ Backend Core</h4>
+    <td width="50%" valign="top">
+      <h4>☕ Backend Core &amp; Security</h4>
       <ul>
-        <li>Spring Boot · Spring MVC</li>
-        <li>Spring Data JPA / Hibernate</li>
-        <li>RESTful API design &amp; validation</li>
-        <li>WebSocket · STOMP</li>
-        <li>Clean Architecture · SOLID</li>
+        <li><b>Framework:</b> Spring Boot, Spring MVC, Spring Data JPA / Hibernate</li>
+        <li><b>Security:</b> Spring Security, RBAC, JWT rotation, HttpOnly Cookies</li>
+        <li><b>Real-time &amp; APIs:</b> RESTful APIs, WebSocket, STOMP protocol</li>
+        <li><b>Network Security:</b> DNSSEC, RPKI, BGP fundamentals (VNNIC)</li>
+        <li><b>Architecture:</b> Clean Architecture, SOLID Principles</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🔐 Security</h4>
+    <td width="50%" valign="top">
+      <h4>🗄️ Data, DevOps &amp; Cloud</h4>
       <ul>
-        <li>Spring Security · RBAC</li>
-        <li>JWT Access / Refresh rotation</li>
-        <li>HttpOnly Cookie protection</li>
-        <li>Redis token blacklisting</li>
-        <li>DNSSEC · RPKI · BGP (VNNIC)</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🗄️ Data &amp; DevOps</h4>
-      <ul>
-        <li>PostgreSQL · SQL Server · MySQL</li>
-        <li>Indexing · ACID · Transactions</li>
-        <li>Redis caching &amp; Pub/Sub</li>
-        <li>Docker · Docker Compose</li>
-        <li>Git · Postman · CI/CD basics</li>
+        <li><b>Databases:</b> PostgreSQL, Microsoft SQL Server, MySQL</li>
+        <li><b>DB Design:</b> Indexing, Transactions, ACID Compliance</li>
+        <li><b>Caching &amp; Messaging:</b> Redis (Caching, Token Blacklisting, Pub/Sub)</li>
+        <li><b>DevOps &amp; Containers:</b> Docker, Docker Compose, Git / GitHub</li>
+        <li><b>Cloud &amp; Tooling:</b> Cloudflare Workers AI, Vercel, Postman</li>
       </ul>
     </td>
   </tr>
