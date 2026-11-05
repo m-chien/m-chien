@@ -26,60 +26,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    2. WHOAMI — CODE AS IDENTITY                  ║ -->
+<!-- ║                    2. ABOUT ME                                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">⌨️ <code>$ whoami</code></h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table width="100%">
   <tr>
-    <td width="62%" valign="top">
-
-```java
-@RestController
-@RequestMapping("/api/v1/developer")
-public class TranMinhChien implements BackendEngineer, AIBuilder {
-
-    private final String role      = "Fresher / Junior Backend Developer";
-    private final String education = "IT Senior @ UTE – University of Da Nang (23T2)";
-    private final String location  = "Da Nang, Vietnam 🇻🇳";
-
-    private final List<String> experience = List.of(
-        "Network & Infrastructure Intern @ VNNIC (Central Branch)",
-        "  └─ DNSSEC · RPKI · BGP · Network Security"
-    );
-
-    private final Map<String, List<String>> stack = Map.of(
-        "backend",  List.of("Java", "Spring Boot", "Spring Security", "JPA"),
-        "realtime", List.of("WebSocket", "STOMP", "Redis Pub/Sub"),
-        "data",     List.of("PostgreSQL", "SQL Server", "MySQL", "Redis"),
-        "ai",       List.of("Cloudflare Workers AI", "LLaMA", "Prompt Flow")
-    );
-
-    @GetMapping("/philosophy")
-    public String philosophy() {
-        return "Clean code. SOLID. Secure by default. Ship with purpose.";
-    }
-
-    @GetMapping("/status")
-    public ResponseEntity<String> hireMe() {
-        return ResponseEntity.ok("✅ Open to Internship / Full-time Backend roles");
-    }
-}
-```
-
-</td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Stickers/master/Stickers/Animals/Coding%20Cat.png" width="200" alt="Coding Cat" />
-      <br/><br/>
-      <b>🎯 Currently</b>
-      <br/>
-      <sub>🔭 Building AI-driven SaaS products</sub><br/>
-      <sub>🌱 Deep-diving into Microservices &amp; Kafka</sub><br/>
-      <sub>🧩 Practicing System Design daily</sub><br/>
-      <sub>⚡ Fun fact: I debug better at 2 AM ☕</sub>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer" />
+    </td>
+    <td width="60%" valign="top">
+      <h3>👋 Hi, I'm Chiến!</h3>
+      <p>A <b>Backend Developer</b> who loves building secure, scalable systems and turning AI into real, useful products.</p>
+      <p>💼 <b>Role</b><br/>Fresher / Junior Backend Developer</p>
+      <p>🎓 <b>Education</b><br/>Senior IT Student (23T2) @ <b>UTE – University of Da Nang</b></p>
+      <p>🌐 <b>Experience</b><br/>Network &amp; Infrastructure Intern @ <b>VNNIC</b> (Central Branch)<br/><sub>DNSSEC · RPKI · BGP · Network Security</sub></p>
+      <p>💡 <b>Philosophy</b><br/>Clean code · SOLID · Secure by default</p>
+      <p>🎯 <b>Goal</b><br/>Internship / Full-time role as a <b>Java Spring Boot Backend Developer</b></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Building-AI_driven_SaaS-0F172A?style=flat-square&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Microservices_&_Kafka-0F172A?style=flat-square&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/🧩_Practicing-System_Design-0F172A?style=flat-square&labelColor=1E3A8A" />
+  <img src="https://img.shields.io/badge/☕_Fuel-Coffee_&_2AM_debugging-0F172A?style=flat-square&labelColor=1E3A8A" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -227,7 +200,6 @@ public class TranMinhChien implements BackendEngineer, AIBuilder {
 
 <table width="100%">
   <tr>
-    <!-- PROJECT 1 -->
     <td width="50%" valign="top">
       <h3>🤖 AI Requirements Analyst</h3>
       <sub><b>SaaS Platform · AI-powered Business Analysis</b></sub>
@@ -245,7 +217,6 @@ public class TranMinhChien implements BackendEngineer, AIBuilder {
         <a href="https://ai-requirements-analyst-sqyt.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
-    <!-- PROJECT 2 -->
     <td width="50%" valign="top">
       <h3>💬 Real-Time Messenger</h3>
       <sub><b>High-concurrency Chat System</b></sub>
@@ -265,7 +236,6 @@ public class TranMinhChien implements BackendEngineer, AIBuilder {
     </td>
   </tr>
   <tr>
-    <!-- PROJECT 3 -->
     <td width="50%" valign="top">
       <h3>🎬 ChienCINEMA</h3>
       <sub><b>Movie Booking · VNPAY Payment Gateway</b></sub>
@@ -283,7 +253,6 @@ public class TranMinhChien implements BackendEngineer, AIBuilder {
         <img src="https://img.shields.io/badge/VNPAY_Integrated-005BAA?style=for-the-badge&logo=visa&logoColor=white" />
       </p>
     </td>
-    <!-- PROJECT 4 -->
     <td width="50%" valign="top">
       <h3>🌐 chientech.id.vn</h3>
       <sub><b>Personal Developer Hub</b></sub>
@@ -360,20 +329,16 @@ flowchart LR
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m-chien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-chien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-chien&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-chien&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-chien&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-chien&theme=tokyonight" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-chien&bg_color=0D1117&color=38BDF8&line=06B6D4&point=F59E0B&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-chien&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=m-chien&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="70%" />
 </div>
 
 <!-- Snake animation (requires .github/workflows/snake.yml) -->
