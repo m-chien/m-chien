@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=75&lines=%F0%9F%92%BB+Building+Secure+RESTful+APIs+%26+Backend+Systems+%E2%98%95;%F0%9F%A4%96+Integrating+AI+Workflows+into+Software+Solutions;%F0%9F%8C%90+Explore+My+Interactive+Portfolio+%40+chientech.id.vn" alt="Typing SVG" />
   </a>
 </div>
-
+<br/>
 <!-- QUICK ACTION BADGES -->
 <p align="center">
   <a href="https://chientech.id.vn" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-chientech.id.vn-00C7B7?style=for-the-badge&logoColor=white" /></a>
