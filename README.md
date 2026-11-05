@@ -1,6 +1,6 @@
 <!-- ==================== HEADER BANNER ĐỘNG ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=250&section=header&text=Trần%20Minh%20Chiến&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer%20%bull;%20Java%20%26%20Spring%20Boot%20%bull;%20AI%20%26%20Full-Stack%20Builder&descAlignY=58&descSize=19" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,24&height=250&section=header&text=Trần%20Minh%20Chiến&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AI%20and%20Full-Stack%20Builder&descAlignY=58&descSize=19" width="100%" />
 </div>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
