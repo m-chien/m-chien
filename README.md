@@ -376,7 +376,7 @@ flowchart LR
   <img src="https://github-profile-trophy.vercel.app/?username=m-chien&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
 </div>
 
-<!-- Snake animation (requires .github/workflows/snake.yml — see setup notes) -->
+<!-- Snake animation (requires .github/workflows/snake.yml) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-chien/m-chien/output/github-snake-dark.svg" />
